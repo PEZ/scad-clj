@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.8.0"}
+        org.clojure/core.match {:mvn/version "0.2.2"}
+        net.mikera/core.matrix {:mvn/version "0.42.1"}}}
